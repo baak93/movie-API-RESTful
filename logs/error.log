@@ -1,0 +1,32 @@
+2024-09-27 18:09:49:949 - [31merror[39m - [31mNão possível conectar[39m
+2024-09-27 18:09:49:949 - [31merror[39m - [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.3g6no.mongodb.net[39m
+2024-09-27 18:10:28:1028 - [31merror[39m - [31mNão foi possível conectar[39m
+2024-09-27 18:10:28:1028 - [31merror[39m - [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.3g6no.mongodb.net[39m
+2024-09-27 18:10:39:1039 - [31merror[39m - [31mNão foi possível conectar![39m
+2024-09-27 18:10:40:1040 - [31merror[39m - [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.3g6no.mongodb.net[39m
+2024-09-27 18:11:43:1143 - [31merror[39m - [31mNão foi possível conectar![39m
+2024-10-03 11:47:16:4716 - [31merror[39m: [31mNão foi possível conectar![39m
+2024-10-04 17:22:01:221 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6546" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 17:22:54:2254 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6546be" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:38:56:3856 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:42:15:4215 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:42:25:4225 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:43:05:435 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:43:28:4328 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:43:58:4358 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "54613" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:46:38:4638 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 18:47:42:4742 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:12:48:1248 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:13:29:1329 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:13:44:1344 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:14:07:147 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:15:08:158 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:15:19:1519 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:15:41:1541 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:27:26:2726 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecb9f3f75f239b438b9d" (type string) at path "_id" for model "Movie"[39m
+2024-10-04 19:28:48:2848 - [31merror[39m: [31mErro no sistema: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+2024-10-04 19:31:53:3153 - [31merror[39m: [31mErro no sistema: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+2024-10-04 19:56:34:5634 - [31merror[39m: [31mErro no sistema: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+2024-10-04 20:00:29:029 - [31merror[39m: [31mErro no sistema: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+2024-10-04 20:05:22:522 - [31merror[39m: [31mErro no sistema: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+2024-10-04 20:05:54:554 - [31merror[39m: [31mErro no sistema: CastError: Cast to ObjectId failed for value "66fecce758a69a6b009170e" (type string) at path "_id" for model "Movie"[39m
